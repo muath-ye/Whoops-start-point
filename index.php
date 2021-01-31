@@ -4,6 +4,7 @@ require 'vendor/autoload.php';
 
 // create new instance of Whoops\Run
 $whoops = new \Whoops\Run;
+// TODO: add comment for this line
 $whoops->pushHandler(new \Whoops\Handler\PrettyPageHandler);
 $whoops->register();
 
