@@ -9,3 +9,4 @@ $whoops->register();
 
 // You may use return.
 echo Muathye;
+// see squash
