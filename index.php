@@ -7,4 +7,4 @@ $whoops->pushHandler(new \Whoops\Handler\PrettyPageHandler);
 $whoops->register();
 
 // You may use return.
-return Muathye;
+echo Muathye;
